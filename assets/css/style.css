@@ -1,0 +1,58 @@
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Inconsolata', monospace;
+font-weight: 400, 700; */
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Inconsolata', monospace;
+}
+
+.bg-custom {
+    background-color: #111c24;
+}
+
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+}
+
+.hero-section {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.8125rem;
+    background-image: url(../img/bg-hero.jpg);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 27.5rem 3.125rem 1.5625rem 3.125rem;
+}
+
+#experiencia h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.8125rem;
+}
+
+#experiencia h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.1875rem;
+}
+
+#experiencia p {
+    font-weight: 400;
+    font-size: 1.5625rem;
+}
+
+#trabajos .card-group {
+    display: flex;
+    margin: auto;
+    text-align: justify;
+}
+
+.line {
+    border-bottom: 2px solid #ffffff;
+    display: block;
+    margin: auto;
+    width: 7.2188rem;
+}
