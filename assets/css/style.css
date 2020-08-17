@@ -29,6 +29,11 @@ body {
     padding: 27.5rem 3.125rem 1.5625rem 3.125rem;
 }
 
+#sobre_mi h5 {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+}
+
 #experiencia h2 {
     font-family: 'Bebas Neue', cursive;
     font-size: 2.8125rem;
